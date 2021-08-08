@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+  color: blanchedalmond;
+  text-align: center;
+  align-items: center;
+}
+a:-webkit-any-link {
+  color: yellowgreen;
+  cursor: pointer;
+  text-decoration: none;
+}
+#find {
+  margin-top: 1%;
+  height: 30%;
+  border-radius: 10px;
+  box-shadow: wheat;
+  border: none;
+  width: 20%;
+  height: 35px;
+  /* text-align: center; */
+  text-shadow: thistle;
+}
+#suggest {
+  width: 100%;
+  margin-left: 40%;
+}
+#suggest p {
+  width: 20%;
+  /* text-align: center; */
+  margin-left: 0%;
+  border: 1px solid greenyellow;
+  cursor: pointer;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: large;
+}
+#searchDiv h3 {
+  margin-top: 2%;
+  color: greenyellow;
+}
+#show h1 {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  color: rgb(126, 165, 47);
+}
+#navbar {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid rgb(169, 166, 166);
+  border-radius: 4px;
+}
+.setRight {
+  width: 60%;
+  float: right;
+  font-size: 20px;
+  text-align: justify;
+}
+.setRight p {
+  color: white;
+}
+img {
+  margin-top: 8%;
+  width: 25%;
+}
+#show {
+  margin: 3%;
+}
+.font {
+  font-size: 20px;
+}
